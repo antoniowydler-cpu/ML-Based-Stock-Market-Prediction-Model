@@ -1,0 +1,6 @@
+alpaca-trade-api
+pandas
+numpy
+scikit-learn
+matplotlib
+python-dotenv
