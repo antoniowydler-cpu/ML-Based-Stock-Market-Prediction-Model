@@ -1,5 +1,7 @@
 # ML Stock Prediction (Alpaca + Random Forest)
 
+by Camille Yabu and Antonio Wydler
+
 This project pulls daily stock bar data from Alpaca (Paper Trading) and trains a machine learning model to predict the next trading day's movement.
 
 ## What it does
